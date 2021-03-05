@@ -1,30 +1,26 @@
 # server-express
 
 ![GitHub Logo](images/05-Favorites-Server.JS.CODE.png)
-Format: ![Alt Text](url)
-
-
-![GitHub Logo](images/05-Favorites-Server.JS.CODE.png)
-Format: ![Alt Text](url)
+Format: ![Server.JS Code](url)
 
 
 ![GitHub Logo](images/05-Favorites-Node Output.png)
-Format: ![Alt Text](url)
+Format: ![Server.Js Node](url)
 
 
 ![GitHub Logo](images/05-Foods.png)
-Format: ![Alt Text](url)
+Format: ![Food Output](url)
 
 
 ![GitHub Logo](images/05-Frameworks.png)
-Format: ![Alt Text](url)
+Format: ![Framework output](url)
 
 
 ![GitHub Logo](images/05-Home.png)
-Format: ![Alt Text](url)
+Format: ![Home Output](url)
 
 
 ![GitHub Logo](images/05-Movies.png)
-Format: ![Alt Text](url)
+Format: ![Movies Output](url)
 
 
