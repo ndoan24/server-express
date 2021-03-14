@@ -23,16 +23,13 @@ var characters = [
         role: "wizard",
         age: 17,
         superPower: "magic"
-
     },
-
     { 
         routeName: "spiderman",
         name: "SpiderMan",
         role: "superhero",
         age: 100,
         superPower: "superpowers"
-
     },
 
     { 
@@ -43,7 +40,6 @@ var characters = [
         superPower: "adventure"
 
     },
-
     { 
         routeName: "pacman",
         name: "PacMan",
@@ -52,7 +48,6 @@ var characters = [
         superPower: "eating"
 
     },
-
     { 
         routeName: "meangirls",
         name: "catie",
@@ -62,8 +57,6 @@ var characters = [
 
     }
 ];
-
-
 
 // Routes
 // =============================================================
@@ -75,10 +68,6 @@ app.get("/", function(req, res){
 app.get("/add", function(req, res){
     res.sendFile(path.join(__dirname, "add.html"))
 });
-
-
-
-
 
 // Displays all characters
 app.get("/api/characters", function(req, res){
@@ -114,11 +103,6 @@ app.get('/api/:characters', function(req, res){
 		res.json(characters);
 	}
 })
-
-
-
-
-
 // Create New Characters - takes in JSON input
 // req.body hosts is equal to the JSON post sent from the user
 // This works because of our body parsing middleware
@@ -132,18 +116,9 @@ app.post("/api/characters", function(req, res) {
     res.json(newCharacter);
 });
 
-  
-
-
-
 // Using a RegEx Pattern to remove spaces from newCharacter
 // You can read more about RegEx Patterns later https://www.regexbuddy.com/regex.html
   
-
-
-
-
-
 // Starts the server to begin listening
 // =============================================================
 app.listen(PORT, function() {
