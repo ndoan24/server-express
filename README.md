@@ -1,22 +1,5 @@
 # server-express
 
-
-
-## **Developer**: Ngoc Doan
-## **Place:** *Denver, CO*
-## **Institute: Emily Griffith Technical College
-## **Title**: Node Beginner Overview  
-
-
-## **Date: March 05, 2021
-## **Goal**:
-To show understanding of node
-
-## **Folder 07-Movie App**:
-
-
-
-
 ## **Date: February 28, 2021
 
 ## **Goal**:
